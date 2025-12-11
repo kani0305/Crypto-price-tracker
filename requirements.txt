@@ -1,0 +1,6 @@
+selenium
+pandas
+webdriver-manager
+streamlit
+beautifulsoup4
+requests
